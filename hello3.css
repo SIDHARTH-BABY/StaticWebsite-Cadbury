@@ -1,0 +1,364 @@
+
+body{
+    margin: 0%;
+   
+}
+.header-one,.header-two {
+    background: #441672;
+     
+    width: 100%;
+    height: 75px;
+    
+}
+
+
+.four-head{
+
+    padding-left: 38%;
+    padding-top: 5px;
+    
+}
+
+
+.four-head li{
+
+    display: inline;
+    
+    
+}
+.four-head a{
+    
+    color: rgba(255, 255, 255, 0.6); 
+    text-decoration: none;
+    font-family: StRyde-Bold;
+    padding-right: 15px;
+    font-size: 1.3em;
+    line-height: 1.5em;
+
+    
+   
+}
+
+
+
+
+.logo{
+    width: 20%;
+    padding-left: 10%;
+
+}
+
+
+
+.five-head {
+    width: 70%;
+
+    float: right;
+    padding-right: 5%;
+  
+   
+   
+
+}
+.five-head li{
+
+    display:inline;
+    
+}
+.five-head a{
+   
+
+    color: #fff;
+    text-decoration: none;
+    font-family: StRyde-Bold;
+    padding-right: 15px;
+    font-size: 1.5em;
+    line-height: 1em;
+   
+   
+
+    
+}
+.main-body{
+    background: #3f1b79;
+    
+      
+}
+
+
+.body-one{
+
+    
+   
+    background: #3f1b79;
+
+  
+    height: 450px;
+    width:100%;
+
+   
+   
+ 
+  
+}
+.cover-photo{
+    margin-left: 120px;
+
+}
+.button-box{
+    height: 50px;
+    width: 200px;
+    margin-left: 800px;
+    margin-top: 40px;
+    
+
+}
+
+
+
+
+
+.btn-color{
+    background: #3f1b79;
+
+    border-radius: 10px;
+    border: 3px solid rgb(250, 249, 249);
+    color: #fff;
+    font-family: StRyde-Bold;
+ 
+    text-decoration: none;
+  
+}
+.btn-color:hover{
+   background-color: #260746;
+
+   
+}
+
+.body-two{
+    width: 100%;
+    height: 500px;
+   
+    background: #3f1b79;
+    
+
+
+}
+.title{
+    
+    
+    font-family: StRyde-Bold;
+    margin-left: 400px;
+    color: #fff;
+    margin-top: 100px;
+}
+.title2{
+    font-family: StRyde-Bold;
+   
+  
+    margin-left: 40%;
+    color: #fff;
+}
+.image1{
+    margin-left: 200px;
+    border-radius: 15px;
+}
+.image2{
+    margin-left: 100px;
+    border-radius: 15px;
+}
+.image3{
+    
+
+    margin-left: 100px;
+    border-radius: 15px;
+
+    
+}
+.middle{
+    width: 100%;
+    height: 500px;
+   
+}
+.mid-title{
+   
+    margin-left: 250px;
+    margin-top: 20px;
+    font-family: StRyde-Bold;
+
+}
+
+
+.recipe-one{
+
+  
+    margin-left: 5%;
+    margin-top: 6%;
+    float: left;
+   
+
+}
+.image-rec1{
+    height: 100px;
+    width: 100px;
+}
+.recipe-two{
+  
+    margin-left: 7%;
+    margin-top: 5%;
+    float: left;
+   
+
+}
+.image-rec2{
+    height: 150px;
+    width: 150px;
+}
+.recipe-three{
+    margin-left: 12%;
+    margin-top: 2%;
+    float: left;
+   
+
+}
+.image-rec3{
+    height: 250px;
+    width: 250px;
+    border-radius: 15px;
+}
+.recipe-four{
+  
+ 
+    margin-left: 10%;
+    margin-top: 5%;
+    float: left;
+   
+
+}
+.image-rec4{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.recipe-five{
+    margin-left: 8%;
+    margin-top: 6%;
+    float: left;
+   
+
+}
+.image-rec5{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+
+
+}
+.but{
+    
+    float: right;
+    padding-top: 50px;
+    padding-right: 690px;
+    
+   
+}
+
+.recipe-button{
+    background: #3f1b79;
+
+   border-radius: 25px;
+   border: 3px solid rgb(250, 249, 249);
+   color: #fff;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: 20px;
+
+   
+ 
+
+
+}
+.recipe-button:hover{
+    background-color: #1d0435;
+}
+
+
+
+.body-three{
+
+    width: 100%;
+    height:500px;
+    position: relative;
+    background-image: url('../images/BG-Top-light.svg');
+    background-repeat: no-repeat;
+    background-position: centre center;
+
+
+}
+
+.image4{
+    padding-left: 200px;
+    padding-bottom: 100px;
+    
+}
+.image5{
+   
+    padding-left: 50px;
+    padding-bottom: 45px;
+    
+}
+.image6{
+    padding-top: 239px;
+}
+.footer{
+    height: 200px;
+    width: 100%;
+   
+
+    background: #fff;
+    
+}
+.left-section{
+    padding-top: 50px;
+    color: #6E5298;
+}
+.right-section{
+    padding-top: 50px;
+    color: #6E5298;
+    padding-left: 900px;
+    padding-top: 5px;
+
+   
+}
+
+.link{
+ padding-left: 50px;
+ text-decoration: none;
+
+ 
+}
+.link1{
+   
+    
+   
+    
+    text-decoration: none;
+    padding-right: 50%;
+    
+
+    font-size: 12px;
+    line-height: 1.5;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
